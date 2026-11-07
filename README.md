@@ -1,1 +1,1 @@
-# 7-klas--skaiciu-intervalai
+# 7-klase-skaiciu-intervalai
